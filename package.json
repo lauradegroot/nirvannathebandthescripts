@@ -1,0 +1,19 @@
+{
+  "name": "nirvanathebandthescripts",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build public/index.html",
+    "start": "parcel public/index.html"
+  },
+  "dependencies": {
+    "afterwriting": "^1.9.0",
+    "jouvence": "^1.0.1",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.2.0"
+  }
+}
